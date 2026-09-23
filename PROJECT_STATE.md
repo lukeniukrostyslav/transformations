@@ -41,7 +41,7 @@ https://github.com/lukeniukrostyslav/transformations
 | B7 | World Bible | 100% |
 | B8 | Conflict System | 100% |
 | B9 | Story Architecture | 100% |
-| B10 | Emotional Architecture | 0% |
+| B10 | Эмоциональная архитектура | 100% |
 | B11 | Mentor System | 0% |
 | B12 | Symbol System | 0% |
 | B13 | Transformation Arc | 0% |
@@ -66,7 +66,7 @@ https://github.com/lukeniukrostyslav/transformations
 
 ## CURRENT TASK
 
-B10 — Emotional Architecture.
+B11 — Система наставников.
 
 ## REFERENCE RE-CHECK POLICY
 
@@ -87,6 +87,12 @@ B10 — Emotional Architecture.
 - social/video discovery заметно связано с более молодыми покупателями, но роман должен оставаться самостоятельным произведением, а не писаться под алгоритм.
 
 Источники сохранены в docs/WEB_MARKET_RESEARCH_2026.md.
+
+## ПОСЛЕДНИЕ РЕЗУЛЬТАТЫ WEB-ИССЛЕДОВАНИЯ
+
+NIQ/GfK сообщает, что в 2025 году fiction увеличила выручку в 15 из 19 исследованных территорий; Италия при этом показала снижение общей книжной выручки на 2,1%. citeturn0search0
+
+Publishers Weekly/Circana сообщает, что продажи adult fiction в США выросли в 2025 году примерно на 1% в единицах, а science fiction выросла на 22,1%; self-help выросла на 14,7%. citeturn0search3
 
 ## IMPORTANT DECISIONS
 
