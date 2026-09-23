@@ -49,7 +49,7 @@ https://github.com/lukeniukrostyslav/transformations
 | B15 | Полная архитектура романа | 100% |
 | B16 | Архитектура глав | 100% |
 | B17 | Архитектура сцен | 100% |
-| B18 | Literary Bible | 0% |
+| B18 | Литературная библия | 100% |
 | B19 | Novel Writing | 0% |
 | B20 | Structural Editing | 0% |
 | B21 | Emotional Editing | 0% |
@@ -66,7 +66,7 @@ https://github.com/lukeniukrostyslav/transformations
 
 ## CURRENT TASK
 
-B18 — Литературная библия.
+B19 — Написание романа.
 
 ## REFERENCE RE-CHECK POLICY
 
