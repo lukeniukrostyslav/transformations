@@ -11,13 +11,13 @@ https://github.com/lukeniukrostyslav/transformations
 
 ## REFERENCE MATERIALS
 
-Изучены четыре загруженных EPUB:
+Четыре загруженных EPUB изучены на полном доступном текстовом корпусе:
 - «Монах, который продал свой Ferrari»
 - «Алхимик»
 - «Сиддхартха»
 - «Чайка Джонатан Ливингстон»
 
-Исследование использовано для выделения механизмов, а не для копирования содержания.
+При дальнейшей архитектуре референсы будут повторно сверяться с первоисточниками, когда это необходимо.
 
 ## CURRENT DIRECTION
 
@@ -36,10 +36,10 @@ https://github.com/lukeniukrostyslav/transformations
 | B2 | Reader Effect | 100% |
 | B3 | Original Concepts | 100% |
 | B4 | Selected Concept + Originality Audit | 100% |
-| B5 | Character Bible | 0% |
-| B6 | Philosophy Bible | 0% |
-| B7 | World Bible | 0% |
-| B8 | Conflict System | 0% |
+| B5 | Character Bible | 100% |
+| B6 | Philosophy Bible | 100% |
+| B7 | World Bible | 100% |
+| B8 | Conflict System | 100% |
 | B9 | Story Architecture | 0% |
 | B10 | Emotional Architecture | 0% |
 | B11 | Mentor System | 0% |
@@ -60,13 +60,29 @@ https://github.com/lukeniukrostyslav/transformations
 
 ## PRODUCTION
 
-Написанных глав: 0  
-Слов романа: 0  
+Написанных глав: 0
+Слов романа: 0
 Целевой объём: 80 000–95 000 слов
 
 ## CURRENT TASK
 
-Переход к B5 — Character Bible.
+B9 — Story Architecture.
+
+## REFERENCE RE-CHECK POLICY
+
+Перед ключевыми архитектурными решениями повторно сверять соответствующие места загруженных книг, чтобы не потерять исходные механизмы и одновременно не переносить их уникальные элементы.
+
+## WEB RESEARCH
+
+Актуальное исследование книжного рынка 2025–2026 используется только для коммерческого контекста, а не для изменения художественного ядра.
+
+Основные выводы:
+- в США adult fiction в 2025 году выросла по выручке на 3.9%; self-help вырос по единицам на 14.7%;
+- международные данные NIQ/GfK показывают, что fiction была главным драйвером роста в 15 из 19 исследованных территорий;
+- Италия в 2025 году показала снижение книжной выручки на 2.1%, поэтому нельзя автоматически считать её самым сильным рынком;
+- social/video discovery заметно связано с более молодыми покупателями, но роман должен оставаться самостоятельным произведением, а не писаться под алгоритм.
+
+Источники сохранены в docs/WEB_MARKET_RESEARCH_2026.md.
 
 ## IMPORTANT DECISIONS
 
@@ -80,7 +96,4 @@ https://github.com/lukeniukrostyslav/transformations
 8. После каждой главы выполняется Anti-Telegraph Check.
 9. Проценты не завышаются.
 10. Глава 1 не пишется до завершения B1–B18.
-
-## LAST COMMITS
-
-Initial project research commit — будет создан после загрузки документов.
+11. Коммерческий потенциал исследуется отдельно от художественной архитектуры.
