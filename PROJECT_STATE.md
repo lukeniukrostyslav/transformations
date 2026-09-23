@@ -48,7 +48,7 @@ https://github.com/lukeniukrostyslav/transformations
 | B14 | Финальный аудит оригинальности | 100% |
 | B15 | Полная архитектура романа | 100% |
 | B16 | Архитектура глав | 100% |
-| B17 | Scene Architecture | 0% |
+| B17 | Архитектура сцен | 100% |
 | B18 | Literary Bible | 0% |
 | B19 | Novel Writing | 0% |
 | B20 | Structural Editing | 0% |
@@ -66,7 +66,7 @@ https://github.com/lukeniukrostyslav/transformations
 
 ## CURRENT TASK
 
-B17 — Архитектура сцен.
+B18 — Литературная библия.
 
 ## REFERENCE RE-CHECK POLICY
 
