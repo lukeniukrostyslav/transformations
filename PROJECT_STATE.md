@@ -46,7 +46,7 @@ https://github.com/lukeniukrostyslav/transformations
 | B12 | Система символов | 100% |
 | B13 | Дуга трансформации | 100% |
 | B14 | Финальный аудит оригинальности | 100% |
-| B15 | Full Novel Architecture | 0% |
+| B15 | Полная архитектура романа | 100% |
 | B16 | Chapter Architecture | 0% |
 | B17 | Scene Architecture | 0% |
 | B18 | Literary Bible | 0% |
@@ -66,7 +66,7 @@ https://github.com/lukeniukrostyslav/transformations
 
 ## CURRENT TASK
 
-B15 — Полная архитектура романа.
+B16 — Архитектура глав.
 
 ## REFERENCE RE-CHECK POLICY
 
