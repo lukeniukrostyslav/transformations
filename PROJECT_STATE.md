@@ -44,7 +44,7 @@ https://github.com/lukeniukrostyslav/transformations
 | B10 | Эмоциональная архитектура | 100% |
 | B11 | Система наставников | 100% |
 | B12 | Система символов | 100% |
-| B13 | Transformation Arc | 0% |
+| B13 | Дуга трансформации | 100% |
 | B14 | Originality Audit | 0% |
 | B15 | Full Novel Architecture | 0% |
 | B16 | Chapter Architecture | 0% |
@@ -66,7 +66,7 @@ https://github.com/lukeniukrostyslav/transformations
 
 ## CURRENT TASK
 
-B13 — Дуга трансформации.
+B14 — Аудит оригинальности.
 
 ## REFERENCE RE-CHECK POLICY
 
