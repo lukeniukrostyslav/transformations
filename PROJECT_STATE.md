@@ -42,7 +42,7 @@ https://github.com/lukeniukrostyslav/transformations
 | B8 | Conflict System | 100% |
 | B9 | Story Architecture | 100% |
 | B10 | Эмоциональная архитектура | 100% |
-| B11 | Mentor System | 0% |
+| B11 | Система наставников | 100% |
 | B12 | Symbol System | 0% |
 | B13 | Transformation Arc | 0% |
 | B14 | Originality Audit | 0% |
@@ -66,7 +66,7 @@ https://github.com/lukeniukrostyslav/transformations
 
 ## CURRENT TASK
 
-B11 — Система наставников.
+B12 — Система символов.
 
 ## REFERENCE RE-CHECK POLICY
 
