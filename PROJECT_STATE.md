@@ -40,7 +40,7 @@ https://github.com/lukeniukrostyslav/transformations
 | B6 | Philosophy Bible | 100% |
 | B7 | World Bible | 100% |
 | B8 | Conflict System | 100% |
-| B9 | Story Architecture | 0% |
+| B9 | Story Architecture | 100% |
 | B10 | Emotional Architecture | 0% |
 | B11 | Mentor System | 0% |
 | B12 | Symbol System | 0% |
@@ -66,11 +66,15 @@ https://github.com/lukeniukrostyslav/transformations
 
 ## CURRENT TASK
 
-B9 — Story Architecture.
+B10 — Emotional Architecture.
 
 ## REFERENCE RE-CHECK POLICY
 
 Перед ключевыми архитектурными решениями повторно сверять соответствующие места загруженных книг, чтобы не потерять исходные механизмы и одновременно не переносить их уникальные элементы.
+
+## BOOK RE-READ CHECK
+
+Перед B9 повторно проверены структурные особенности загруженных EPUB: «Монах, который продал свой Ferrari», «Алхимик», «Сиддхартха», «Чайка Джонатан Ливингстон». Их механизмы использованы как аналитические ориентиры, без переноса уникального содержания.
 
 ## WEB RESEARCH
 
